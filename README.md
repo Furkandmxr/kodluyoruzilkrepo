@@ -8,7 +8,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Installation
 - Öncelikle projeyi clonelayınız.
-git clone https://github.com/Furkandmxr/kodluyoruzilkrepo.git
+ https://github.com/Furkandmxr/kodluyoruzilkrepo.git
 
 # Usage 
 
